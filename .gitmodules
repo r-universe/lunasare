@@ -5,3 +5,6 @@
 [submodule "OpenTreeChronograms"]
 	path = OpenTreeChronograms
 	url = https://github.com/cran/OpenTreeChronograms
+[submodule "datelife"]
+	path = datelife
+	url = https://github.com/lunasare/datelife
